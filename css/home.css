@@ -28,3 +28,14 @@ h1{font-family: 'GmarketSansBold';
 p{font-family: 'GmarketSansLight';
 	 font-size: 1rem; padding-bottom: 10px;}
 
+body,h1,h2,p,ol,ul{margin: 0; padding: 0;}
+
+a{display: block;
+	width: 100px;
+	background: green;
+		text-align: center;
+		margin: 1px;
+		border-radius: 10px;
+		text-decoration: none;
+		color: white;
+		padding: 10px;
